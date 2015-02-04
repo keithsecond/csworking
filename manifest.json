@@ -57,8 +57,7 @@
         "css": [ "chromeshack.css" ],
         "matches": [
             "*://www.shacknews.com/chatty*",
-            "*://new.shacknews.com/chatty*",
-            "*://www.shacknews.com/article/*"
+            "*://new.shacknews.com/chatty*"
         ],
         "all_frames": false,
         "run_at": "document_idle"
